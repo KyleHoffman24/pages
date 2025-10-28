@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-l1ww7l$j*j7t^!4ae@6z2%1#6l)i@t334%=vxm^_&8gr6!w*fu
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pages-deploy.fly.dev']
 
 
 # Application definition
